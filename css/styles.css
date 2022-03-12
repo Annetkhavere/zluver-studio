@@ -2,12 +2,17 @@
   width: 100%;
   position: absolute;
 }
+#img2 {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
 h1 {
-  top: 250px;
+  top: 200px;
   text-align: center;
   position: relative;
   color: white;
-}
-#img2 {
-  position: relative;
 }
