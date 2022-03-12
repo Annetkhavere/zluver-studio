@@ -1,17 +1,17 @@
 #img1 {
   width: 100%;
-  position: relative;
+  position: absolute;
 }
 #logo {
   top: 220px;
-  position: absolute;
+  position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;  
 }
 #welcome {
   top: 235px;
-  position: absolute;
+  position: relative;
   color: white;
   text-align: center;
 
@@ -19,18 +19,18 @@
 #studio {
   top: 270px;
   text-align: center;
-  position: absolute;
+  position: relative;
   color: white;
 }
 h6 {
   top: 270px;
-  position: absolute;
+  position: relative;
   color: white;
   text-align: center;
 }
 #mouse_click {
   top: 410px;
-  position: absolute;
+  position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
