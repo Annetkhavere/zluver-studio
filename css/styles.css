@@ -12,6 +12,8 @@
 #welcome {
   position: relative;
   color: white;
+  text-align: center;
+
 }
 #studio {
   top: 270px;
