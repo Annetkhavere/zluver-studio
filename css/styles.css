@@ -3,8 +3,8 @@ img {
   position: absolute;
 }
 h1 {
+  top: 250px;
   text-align: center;
   position: relative;
   color: white;
-  top: 200px;
 }
