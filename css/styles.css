@@ -116,7 +116,9 @@ h6 {
 #contact {
   padding-top: 50px;
   width: 100%;
+  position: relative;
 }
 #contactus {
   text-align: center;
+  position: absolute;
 }
