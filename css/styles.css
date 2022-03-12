@@ -4,14 +4,14 @@
 }
 #logo {
   top: 220px;
-  position: relative;
+  position: absolute;
   display: block;
   margin-left: auto;
   margin-right: auto;  
 }
 #welcome {
   top: 235px;
-  position: relative;
+  position: absolute;
   color: white;
   text-align: center;
 
@@ -19,18 +19,18 @@
 #studio {
   top: 270px;
   text-align: center;
-  position: relative;
+  position: absolute;
   color: white;
 }
 h6 {
   top: 270px;
-  position: relative;
+  position: absolute;
   color: white;
   text-align: center;
 }
 #mouse_click {
   top: 410px;
-  position: relative;
+  position: absolute;
   display: block;
   margin-left: auto;
   margin-right: auto;
