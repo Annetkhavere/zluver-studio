@@ -1,4 +1,4 @@
-img {
+#img1 {
   width: 100%;
   position: absolute;
 }
@@ -7,4 +7,7 @@ h1 {
   text-align: center;
   position: relative;
   color: white;
+}
+#img2 {
+  position: relative;
 }
