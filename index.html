@@ -94,16 +94,18 @@
         <form class="form">
           <div class="row">
             <div class="col-md-6">
-            <label for="name">Name</label>
-            <input type="text" id="name">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" id="name" class="form-control" >
           </div>
           <div class="col-md-6">
-            <label for="email">Email</label>
-            <input type="email" id="email">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" id="email" class="form-control">
           </div>
           </div>
-          <label for="text-area" aria-placeholder="Your message here..."></label>
-          <input type="text" id="text">
+          <div class="row">
+          <label for="message" class="form-label"></label>
+          <textarea id="message" rows="5" cols="60" name="message">Your message here...</textarea>
+          </div>
         </form>
         </div>
       </div class="container">
