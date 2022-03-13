@@ -240,6 +240,10 @@ margin-top: 70px;
   left: 300px;
   padding: 20px;
 }
+#button {
+  padding-top: 10px;
+  text-align: center;
+}
 .socialicons {
   padding-top: 50px;
   width: 100%;
