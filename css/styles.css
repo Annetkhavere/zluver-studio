@@ -150,4 +150,13 @@ h6 {
 }
 .p-design {
   display: none;
+  text-align: center;
+}
+.p-devt {
+  display: none;
+  text-align: center;
+}
+.p-product {
+  display: none;
+  text-align: center;
 }
