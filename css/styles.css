@@ -136,7 +136,15 @@ h6 {
   position: absolute;
   left: 360px;
 }
-.footer {
-  padding-top: 50px;
+#zluver {
+  top: 2800px;
   position: absolute;
+  width: 100%;
+  left: 550px;
+}
+#year {
+  top: 2820px;
+  position: absolute;
+  width: 100%;
+  left: 590px;
 }
