@@ -124,3 +124,9 @@ h6 {
   left: 500px;
   color: white;
 }
+#form {
+  position: absolute;
+  top: 2400px;
+  left: 400px;
+  padding: 20px;
+}
