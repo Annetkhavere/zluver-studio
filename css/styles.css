@@ -242,15 +242,22 @@ margin-top: 70px;
 }
 #name {
   background-color: transparent;
+  border-color: white;
+  
 }
 #email {
   background-color: transparent;
+  border-color: white;
 }
 #message {
   background-color: transparent;
+  border-color: white;
+}
+input::placeholder {
+  color: white;
 }
 #button {
-  padding-top: 10px;
+  padding-top: 20px;
   text-align: center;
 }
 .socialicons {
