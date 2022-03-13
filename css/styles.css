@@ -87,7 +87,7 @@ h6 {
   text-align: center;
 }
 #work4 {
-  background-image: url(/images/portfolio/work4.jpg);
+  background-image: url(../images/portfolio/work4.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -104,7 +104,7 @@ h6 {
 margin-top: 70px;
 }
 #work3 {
-  background-image: url(/images/portfolio/work3.jpg);
+  background-image: url(../images/portfolio/work3.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -121,13 +121,13 @@ margin-top: 70px;
 margin-top: 70px;
 }
 #work2 {
-  background-image: url(/images/portfolio/work2.jpg);
+  background-image: url(../images/portfolio/work2.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
 }
 #work3 {
-  background-image: url(/images/portfolio/work3.jpg);
+  background-image: url(../images/portfolio/work3.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -144,7 +144,7 @@ margin-top: 70px;
 margin-top: 70px;
 }
 #work1 {
-  background-image: url(/images/portfolio/work3.jpg);
+  background-image: url(../images/portfolio/work3.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -161,7 +161,7 @@ margin-top: 70px;
 margin-top: 70px;
 }
 #work5 {
-  background-image: url(/images/portfolio/work5.jpg);
+  background-image: url(../images/portfolio/work5.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -178,7 +178,7 @@ margin-top: 70px;
 margin-top: 70px;
 }
 #work6 {
-  background-image: url(/images/portfolio/work6.jpg);
+  background-image: url(../images/portfolio/work6.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -195,7 +195,7 @@ margin-top: 70px;
 margin-top: 70px;
 }
 #work7 {
-  background-image: url(/images/portfolio/work7.jpg);
+  background-image: url(../images/portfolio/work7.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
@@ -212,7 +212,7 @@ margin-top: 70px;
 margin-top: 70px;
 }
 #work8 {
-  background-image: url(/images/portfolio/work8.jpg);
+  background-image: url(../images/portfolio/work8.jpg);
   width: 18vw;
   height: 28vh;
   position: relative;
