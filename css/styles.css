@@ -236,9 +236,18 @@ margin-top: 70px;
 }
 #form {
   position: absolute;
-  top: 2300px;
+  top: 2350px;
   left: 300px;
   padding: 20px;
+}
+#name {
+  background-color: transparent;
+}
+#email {
+  background-color: transparent;
+}
+#message {
+  background-color: transparent;
 }
 #button {
   padding-top: 10px;
