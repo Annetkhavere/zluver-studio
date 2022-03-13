@@ -133,4 +133,6 @@ h6 {
 .socialicons {
   padding-top: 50px;
   width: 100%;
+  position: absolute;
+  left: 360px;
 }
