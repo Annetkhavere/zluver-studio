@@ -87,7 +87,7 @@ h6 {
   text-align: center;
 }
 #work4 {
-  background-image: url(../images/portfolio/work4.jpg);
+  background-image: url('../images/portfolio/work4.jpg');
   width: 18vw;
   height: 28vh;
   position: relative;
